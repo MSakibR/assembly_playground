@@ -1,2 +1,5 @@
-# assembly_playground
-A collection of Assembly language programs, lab tasks, and low-level algorithms written in x86/8086 Assembly.
+# assembly_playground 🛠️
+
+Welcome to my **Assembly Language** repository! This repository contains various Assembly language programs, lab assignments, and low-level algorithm implementations (mainly focusing on 8086 Architecture / x86 Assembly).
+
+---
